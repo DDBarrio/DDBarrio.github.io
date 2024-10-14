@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>PROBANDO TAGS</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+    <h1 id="BASIC">PROBANDO TAGS</h1>
+    <p>Esto es el super <strong> MODO SEXO ACTIVEDOU </strong>.</p>
+    <a href="https://tboi.com"> Mira mi wiki</a> 
+    <br>    
+    <a href="https://youtube.com"><img src="Pollo.png" alt="DON POLLO MODO SETSO" width="200" height="200"></a>
+    <br>
+    <a href="#BASIC">VOLVER AL PRIMER TITULO</a>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <table>
+        <tr>
+            <th>Nom</th>
+            <th>Cognom</th>
+            <th>Edat</th>
+            <th>Telefon</th>
+        </tr>
+        <tr>
+            <td>Pepe</td>
+            <td>Amancio</td>
+            <td>50</td>
+            <td>666-666-666 </td>
+        </tr>
+    </table>
+</body>
+</html>
