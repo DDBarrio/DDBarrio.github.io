@@ -111,30 +111,38 @@ a:active {
 .CSharp {
   box-shadow: 0 4px 8px 0 rgba(230, 218, 218, 0.5);
   transition: 0.3s;
+  border-radius: 5px;
 }
 .CSharp:hover {
   box-shadow: 0 8px 16px 0 rgba(151, 148, 148, 0.2);
+  border-radius: 5px 5px 0 0;
 }
 .Java {
   box-shadow: 0 4px 8px 0 rgba(230, 218, 218, 0.5);
   transition: 0.3s;
+  border-radius: 5px;
 }
 .Java:hover {
   box-shadow: 0 8px 16px 0 rgba(151, 148, 148, 0.2);
+  border-radius: 5px 5px 0 0;
 }
 .Lua {
   box-shadow: 0 4px 8px 0 rgba(230, 218, 218, 0.5);
   transition: 0.3s;
+  border-radius: 5px;
 }
 .Lua:hover {
   box-shadow: 0 8px 16px 0 rgba(151, 148, 148, 0.2);
+  border-radius: 5px 5px 0 0;
 }
 .Python {
   box-shadow: 0 4px 8px 0 rgba(230, 218, 218, 0.5);
   transition: 0.3s;
+  border-radius: 5px;
 }
 .Python:hover {
   box-shadow: 0 8px 16px 0 rgba(151, 148, 148, 0.2);
+  border-radius: 5px 5px 0 0;
 }
 
 .container {
